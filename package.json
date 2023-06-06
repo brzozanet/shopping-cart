@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html --no-cache",
+    "start:ui": "parcel src/index.html --no-cache",
+    "start:serv": "json-server --watch database.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

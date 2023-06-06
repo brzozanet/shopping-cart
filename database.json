@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 100,
+      "EAN": 1234567890123,
+      "isDiscount": true,
+      "promoPrice": 80,
+      "tags": ["tag1", "tag2", "tag3"],
+      "category": "Category 1",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1672&q=80",
+        "https://images.unsplash.com/photo-1601924287811-e34de5d17476?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80"
+      ],
+      "rates": 3,
+      "qty": 10
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 160,
+      "EAN": 1234567569874,
+      "isDiscount": true,
+      "promoPrice": 80,
+      "tags": ["tag1", "tag3"],
+      "category": "Category 2",
+      "images": [
+        "https://images.unsplash.com/photo-1607522154446-86a1b4b90556?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1607522154179-da1c051ed109?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2077&q=80"
+      ],
+      "rates": 5,
+      "qty": 0
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 290,
+      "EAN": 1234567569874,
+      "isDiscount": false,
+      "promoPrice": 80,
+      "tags": ["tag1", "tag2", "tag3"],
+      "category": "Category 1",
+      "images": [
+        "https://images.unsplash.com/photo-1507120366498-4656eaece7fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+        "https://images.unsplash.com/photo-1497706764541-6fc3e90e337e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ],
+      "rates": 1,
+      "qty": 3
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "price": 90,
+      "EAN": 1234567569874,
+      "isDiscount": false,
+      "promoPrice": 80,
+      "tags": ["tag1"],
+      "category": "Category 1",
+      "images": [
+        "https://images.unsplash.com/photo-1524439786248-e168955562d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80"
+      ],
+      "rates": 3,
+      "qty": 3
+    }
+  ]
+}
