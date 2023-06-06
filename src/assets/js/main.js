@@ -32,7 +32,7 @@ const buildProducts = () => {
         card.classList.add("max-w-[30%]");
         card.innerHTML = createCard({
           name: product.name,
-          image: product.images[0],
+          image: product.images,
           price: product.price,
         });
         cards.append(card);
